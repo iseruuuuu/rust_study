@@ -58,8 +58,6 @@ fn main() {
     let x = x * 2;
  
     println!("{}", x);
-
-    
-
+    println!("{}", x);
 
 }
